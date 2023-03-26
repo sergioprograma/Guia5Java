@@ -66,7 +66,7 @@ public class Guia5_EjExtra6_SopaDeLetras {
             }
             System.out.println("");
         }
-        
+        System.out.println("");
      }
     
 //    public static void ubicar (String car]{
